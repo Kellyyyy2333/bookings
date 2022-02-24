@@ -1,0 +1,23 @@
+mode: set
+github.com/Kellyyyy2333/bookings/internal/render/render.go:21.40,23.2 1 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:25.84,31.2 5 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:33.105,35.18 2 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:41.2,42.9 2 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:46.2,52.16 5 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:56.2,56.12 1 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:35.18,37.3 1 0
+github.com/Kellyyyy2333/bookings/internal/render/render.go:37.8,40.3 1 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:42.9,45.3 1 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:52.16,55.3 2 0
+github.com/Kellyyyy2333/bookings/internal/render/render.go:60.67,64.16 3 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:67.2,67.29 1 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:87.2,87.21 1 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:64.16,66.3 1 0
+github.com/Kellyyyy2333/bookings/internal/render/render.go:67.29,71.17 3 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:74.3,75.17 2 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:79.3,79.23 1 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:85.3,85.21 1 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:71.17,73.4 1 0
+github.com/Kellyyyy2333/bookings/internal/render/render.go:75.17,77.4 1 0
+github.com/Kellyyyy2333/bookings/internal/render/render.go:79.23,81.18 2 1
+github.com/Kellyyyy2333/bookings/internal/render/render.go:81.18,83.5 1 0
